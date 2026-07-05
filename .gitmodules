@@ -1,0 +1,8 @@
+[submodule "modules/TradingAgents-astock"]
+	path = modules/TradingAgents-astock
+	url = https://github.com/wurannnnn666/TradingAgents-astock.git
+	branch = codex/local-kol-system
+[submodule "modules/Horizon"]
+	path = modules/Horizon
+	url = https://github.com/wurannnnn666/Horizon.git
+	branch = codex/local-kol-system
